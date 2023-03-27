@@ -1,1 +1,1 @@
-# Prediction reactions to Facebook posts
+# Prediction of reactions to Facebook posts
