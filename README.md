@@ -1,1 +1,1 @@
-# predict_fb_reactions
+# Prediction reactions to Facebook posts
